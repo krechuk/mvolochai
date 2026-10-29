@@ -1,0 +1,23 @@
+body{
+  font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 175px;
+}
+footer{
+   background-color: #000000;
+   color: #B8860B;
+}
+nav{
+    text-align: center;
+    color: #007DFF;
+}
+h2{
+    color: #B8860B;
+}
+main2{
+    color: #FFCC00;
+}
